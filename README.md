@@ -1,12 +1,10 @@
 # Udacity Project 1 - Navigation
 
-## Description
-
-### Objective
+## Objective
 
 To train a [Deep Q Learning](https://deepmind.com/research/dqn/) agent for the Banana collection game in UnityML agents
 
-### Background
+## Background
 
 **Reward**: The agent geta a reward of +1 for collecting a yellow banana, and a reward of -1 for collecting a blue banana. Thus, the goal of the agent is to maximise the long term reward by collecting as many yellow bananas as possible while avoiding blue bananas.
 
