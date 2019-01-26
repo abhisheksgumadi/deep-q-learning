@@ -45,6 +45,16 @@ jupyter notebook Navigation.ipynb
 ### Banana Unity Environment
 Download the Banana environment for Unity at [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
 
+## Code Overview
+The code consists of the following modules
+```
+Navigation.ipynb - the main notebook
+agent.py - defines the Agent that is being trained
+model.py - defines the PyTorch model for the Deep Q Network
+```
+
+Please follow the code in Navigation.ipynb to train the agent
+
 ## Results
 
 The average reward collection over 100 episodes plotted in a graph below. It shows the average reward on the Y axis for every point on the X axis representing any 100 consecutive episodes.
