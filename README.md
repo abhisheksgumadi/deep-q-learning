@@ -29,3 +29,9 @@ The average reward collection over 100 episodes plotted in a graph below. It sho
 
 
 ![](images/dqn_banana_trained_agent.png)
+
+## Trained Agent In Action
+
+I have recorded a video of the trained agent in action.
+
+[Trained Agent](https://www.youtube.com/watch?v=iLqFUZT3pVY)
