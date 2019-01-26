@@ -34,4 +34,4 @@ The average reward collection over 100 episodes plotted in a graph below. It sho
 
 I have recorded a video of the trained agent in action.
 
-[Trained Agent](https://www.youtube.com/watch?v=iLqFUZT3pVY)
+[![Trained Agent](https://img.youtube.com/vi/iLqFUZT3pVY/0.jpg)](https://www.youtube.com/watch?v=iLqFUZT3pVY)
