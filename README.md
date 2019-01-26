@@ -27,7 +27,8 @@ In order to consider the environment has been solved, the agent must get an aver
 
 Clone the repository - 
 ```git clone https://github.com/abhisheksgumadi/deep-q-learning.git .
-   cd deep-q-learning```
+   cd deep-q-learning
+```
 
 
 
