@@ -31,6 +31,16 @@ git clone https://github.com/abhisheksgumadi/deep-q-learning.git .
 cd deep-q-learning
 ```
 
+### Jupyter Notebook
+Install jupyter notebook with the command
+```
+pip install jupyter
+```
+Then, open the Navigation.ipynb notebook
+
+```
+jupyter notebook Navigation.ipynb
+```
 
 
 ## Results
