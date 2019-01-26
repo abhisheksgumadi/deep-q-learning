@@ -1,6 +1,10 @@
 # Udacity Project 1 - Navigation
 
-Deep Q Learning for the Banana collection game in Unity ml agents
+##Description
+
+#Objective
+
+To train a [Deep Q Learning](https://deepmind.com/research/dqn/) agent for the Banana collection game in UnityML agents
 
 
 The average reward collection over 100 episodes plotted in a graph
