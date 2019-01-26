@@ -42,6 +42,8 @@ Then, open the Navigation.ipynb notebook
 jupyter notebook Navigation.ipynb
 ```
 
+### Banana Unity Environment
+Download the Banana environment for Unity at [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
 
 ## Results
 
