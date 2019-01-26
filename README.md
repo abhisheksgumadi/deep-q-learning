@@ -25,7 +25,7 @@ In order to consider the environment has been solved, the agent must get an aver
 
 ## Results
 
-The average reward collection over 100 episodes plotted in a graph
+The average reward collection over 100 episodes plotted in a graph below. It shows the average reward on the Y axis for every point on the X axis representing any 100 consecutive episodes.
 
 
 ![](images/dqn_banana_trained_agent.png)
