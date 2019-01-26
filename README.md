@@ -2,7 +2,7 @@
 
 ## Description
 
-# Objective
+### Objective
 
 To train a [Deep Q Learning](https://deepmind.com/research/dqn/) agent for the Banana collection game in UnityML agents
 
