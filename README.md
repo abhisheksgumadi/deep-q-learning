@@ -21,6 +21,14 @@ To train a [Deep Q Learning](https://deepmind.com/research/dqn/) agent for the B
 
 In order to consider the environment has been solved, the agent must get an average score of +13 over 100 consecutive episodes.
 
+## Getting Started
+
+### Repository
+
+Clone the repository - 
+```git clone https://github.com/abhisheksgumadi/deep-q-learning.git .
+   cd deep-q-learning```
+
 
 
 ## Results
