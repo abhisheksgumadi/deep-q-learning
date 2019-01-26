@@ -1,4 +1,4 @@
-### Udacity Project 1 - Navigation
+# Udacity Project 1 - Navigation
 
 Deep Q Learning for the Banana collection game in Unity ml agents
 
