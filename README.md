@@ -51,6 +51,7 @@ The code consists of the following modules
 Navigation.ipynb - the main notebook
 agent.py - defines the Agent that is being trained
 model.py - defines the PyTorch model for the Deep Q Network
+checkpoint.pth - is the final trained agent that has been trained to get atleast a reward of 13 points over 100 consecutive episodes
 ```
 
 Please follow the code in Navigation.ipynb to train the agent
