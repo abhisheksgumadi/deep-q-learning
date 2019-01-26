@@ -32,6 +32,6 @@ The average reward collection over 100 episodes plotted in a graph below. It sho
 
 ## Trained Agent In Action
 
-I have recorded a video of the trained agent in action.
+I have recorded a video of the trained agent in action. To watch the video please click on the below image.
 
 [![Trained Agent](https://img.youtube.com/vi/iLqFUZT3pVY/0.jpg)](https://www.youtube.com/watch?v=iLqFUZT3pVY)
